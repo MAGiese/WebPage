@@ -1,0 +1,101 @@
+
+    a   
+    {
+    text-decoration: none;
+     color: #583faa;
+    }
+   
+    img 
+    {
+    max-width: 100%; 
+    }
+   
+    body 
+    {
+      font-family: 'Open Sans', sans-serif;
+    }
+   
+   
+    #content1 
+    {
+      max-width: 940px;
+      margin: 0 auto;
+      padding: 0 5%;
+   
+    }
+   
+    .center 
+    {
+    text-align: center
+    }
+   
+    h1  
+    {
+    font-family: 'Changa One', sans-serif;
+    margin: 10px 0;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 0.5;
+    text-align: center;
+   
+      color: #410bf5;   
+    }
+   
+    h2  
+    {
+    font-size: 1.00em;
+    font-weight: normal;
+    margin: -5px 0 0;
+      color: #d57d03;
+    }
+
+   
+    nav 
+    {
+       text-align: center;
+       padding: 10px 0;
+       margin: 20px 0 0;
+    }
+   
+    nav ul  
+    {
+       list-style: none;
+       margin: 0 10px;
+       padding: 0;
+    }
+   
+   nav li 
+   {
+     display: inline-block;
+   
+   }  
+   
+   .dog-photos 
+   {
+       display: block;
+       max-width: 500px;
+       margin: 0 auto 30px;
+       border-radius: 5px;
+   }
+
+   .hobby-photos 
+   {
+    display: block;
+    max-width: 500px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+    }
+   
+   .profile-photo 
+   {
+       display: block;
+       max-width: 400px;
+       margin: 0 auto 30px;
+       border-radius: 5px;
+   }
+   
+   
+   body {
+       background-color: #fff;
+       color: #000;
+   }
