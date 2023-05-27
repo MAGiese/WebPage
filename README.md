@@ -7,4 +7,4 @@ Stylesheet is located in "CSS" folder
 
 Multiple images stored in the "Images" folder
 
-Three site pages are present, main.html, dogs.html, and hobbies.html
+Three site pages are present, index.html, dogs.html, and hobbies.html
