@@ -29,6 +29,18 @@
     text-align: center
     }
    
+    h3  
+    {
+    font-family: 'Changa One', sans-serif;
+    margin: 10px 0;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 0.5;
+    text-align: justify;
+   
+      color: #410bf5;   
+    }
+
     h1  
     {
     font-family: 'Changa One', sans-serif;
